@@ -1,0 +1,59 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPkZdT1WMKFMeK7fiv7+VOS",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/roblei007/AdaProjeto2/blob/main/dataset_kaggle\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "jumyNLEh0BqO",
+        "outputId": "3f4014ed-34d2-4e62-e9eb-111907ce0b24"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Using Colab cache for faster access to the 'data-science-salaries' dataset.\n",
+            "Path to dataset files: /kaggle/input/data-science-salaries\n"
+          ]
+        }
+      ],
+      "source": [
+        "import kagglehub\n",
+        "\n",
+        "# Download latest version\n",
+        "path = kagglehub.dataset_download(\"sazidthe1/data-science-salaries\")\n",
+        "\n",
+        "print(\"Path to dataset files:\", path)"
+      ]
+    }
+  ]
+}
