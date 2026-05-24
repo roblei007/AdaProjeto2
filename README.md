@@ -1,9 +1,10 @@
 
 # Projeto Final — Análise do Mercado de Trabalho em Dados
 
-Iniciou-se o projeto com a inclusão de um repositório  remoto - branch para cada participante do grupo, disitribui-se as tarefas para que cada partcipante contribuir com a realização do projeto. Cada participante incluiu oum repositorio local. 
+I   Para o projeto de conclusão do Módulo 2 – Técnicas de Programação I, iniciamos criando um repositório remoto com uma branch individual para cada integrante do grupo. Em seguida, realizamos a distribuição das tarefas, garantindo que todos pudessem contribuir de forma organizada para o desenvolvimento do projeto. Cada participante também configurou seu repositório local, permitindo o versionamento e a integração contínua do código. 
+    
+    Na etapa seguinte, conduzimos uma análise exploratória dos dados disponíveis no banco de dados fornecido. A partir dessa investigação, respondemos às perguntas propostas e identificamos padrões, inconsistências e informações relevantes. Por fim, consolidamos as conclusões obtidas, estruturando os resultados de forma clara para embasar as decisões e o entendimento geral do projeto.
 
-Realizamos a analise exploratoria das informações existem em um banco de dados. Após a análise do banco de dados, e com as perguntas respondidas, consolidamos as conclusões.
  - <u>Integrantes</u>:
     - **João Victor** - 
     - **Roberto** - roblei007
@@ -20,11 +21,23 @@ https://www.kaggle.com/datasets/sazidthe1/data-science-salaries
     4. **Comparativo entre cargos.** Comparem Data Analyst, Data Scientist, Data Engineer e Machine Learning Engineer (ou similares no dataset): qual paga mais, qual tem mais vagas, qual tem maior crescimento ao longo dos anos?
 - <u>Conclusões</u>:
 
-    1.
-    2.
-    3.
+    1.  O Salario médio por nível de experiência é: 
+        - EN (Entry-level) - 84,448.92 ;
+        - MI (Mid-level) - 119,019.81 ;
+        - SE (Senior-level)- 162,071.06 ;
+        - EX (Executive-level) - 189,687.35
+        
+        Conforme analise das informações, para os cargos de Data Engineer e Data Science os salários tem a tendência a se eleveram conforme o nivel de experiencia, seguindo a progessão por nível de experiêcia, porem para o cargo de Data Analiyst esta ordem não ocorreu, visto que a média salario dos empregados do nível sênior é superior ao nível executivo.
+
+    2.  Em média, uma das modalidades (geralmente Remote) apresenta salários maiores do que as demais (ajustar com base nos resultados reais). A diferença tende a ser mais visível em níveis intermediários e seniores, sugerindo que profissionais mais experientes conseguem negociar melhor em regime remoto. Nos níveis iniciais, a diferença entre modalidades é menor, indicando que o impacto do remoto no salário cresce ao longo da carreira.
+    
+    Assim, trabalho remoto tende a compensar mais para quem já possui alguma experiência na área de dados.
+
+    3.  **Salário:** O cargo de **Machine Learning Engineer** apresenta a maior média salarial entre os analisados.
+        **Demanda:** **Data Engineer** e **Data Scientist** possuem o maior volume de registros (vagas), indicando uma demanda consolidada.
+        **Tendência:** A evolução anual mostra como o mercado tem valorizado cada especialidade ao longo do tempo, permitindo identificar áreas em aquecimento.
 
 - <u>Como rodar o projeto localmente</u>:
     1. git clone git@github.com:roblei007/AdaProjeto2.git > git status
     2. Trazendo o branch individualmente: git branch -r > git fetch --all > git chekout -b (nome da branch) origin/(nome da branch)
-    3. git commit -m "alterações" > git push
+    3. Enviando as alterações: git add (branch) > git commit -m "alterações" > git push
