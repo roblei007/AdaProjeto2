@@ -1,8 +1,10 @@
 
 # Projeto Final — Análise do Mercado de Trabalho em Dados
 
-I   Para o projeto de conclusão do Módulo 2 – Técnicas de Programação I, iniciamos criando um repositório remoto com uma branch individual para cada integrante do grupo. Em seguida, realizamos a distribuição das tarefas, garantindo que todos pudessem contribuir de forma organizada para o desenvolvimento do projeto. Cada participante também configurou seu repositório local, permitindo o versionamento e a integração contínua do código. Na etapa seguinte, conduzimos uma análise exploratória dos dados disponíveis no banco de dados fornecido. A partir dessa investigação, respondemos às perguntas propostas e identificamos padrões, inconsistências e informações relevantes. Por fim, consolidamos as conclusões obtidas, estruturando os resultados de forma clara para embasar as decisões e o entendimento geral do projeto.
+I   Para o projeto de conclusão do Módulo 2 – Técnicas de Programação I, iniciamos criando um repositório remoto com uma branch individual para cada integrante do grupo. Em seguida, realizamos a distribuição das tarefas, garantindo que todos pudessem contribuir de forma organizada para o desenvolvimento do projeto. Cada participante também configurou seu repositório local, permitindo o versionamento e a integração contínua do código. 
 
+Na etapa seguinte, conduzimos uma análise exploratória dos dados disponíveis no banco de dados fornecido. A partir dessa investigação, respondemos às perguntas propostas e identificamos padrões, inconsistências e informações relevantes. Por fim, consolidamos as conclusões obtidas, estruturando os resultados de forma clara para embasar as decisões e o entendimento geral do projeto.
+  
  - <u>Integrantes</u>:
     - **João Victor** - 
     - **Roberto** - roblei007
