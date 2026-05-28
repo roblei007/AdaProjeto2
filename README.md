@@ -8,6 +8,7 @@ Na etapa seguinte, conduzimos uma análise exploratória dos dados disponíveis 
  - <u>Integrantes</u>:
     - **João Victor** - 
     - **Roberto** - roblei007
+    - **Roney** - roneyreissilva@gmail.com
     - **Tereza** - tecfccaetano-wq
 
  - <u>Dataset</u>: **Data Science Salaries 2024** (Kaggle)
